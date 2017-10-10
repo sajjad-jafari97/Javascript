@@ -1,0 +1,69 @@
+/*
+.jaja {
+    color: green
+}
+
+.sasa {
+    color: orangered
+}
+
+.kaka {
+    color: darkcyan
+}
+*/
+
+
+.touch{
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline
+}
+section{
+    width: 400px;
+    height: 500px;
+    margin: auto
+}
+.f1{
+    width: 350px;
+    height: 30px;
+    margin-left: 72px
+}
+
+
+span, input{
+    padding: 0 10px;
+    display: block;
+    float: left
+}
+ .f2 span{
+    width:85px;
+     font-size: 18px;
+     text-align: right;
+}
+
+.titre{
+    font-size: 17px;
+    font-family: sans-serif
+}
+.f2{
+    width: 350px;
+    height: 30px;
+    margin: auto
+}
+.f3{
+    width: 350px;
+    height: 30px;
+    margin: 150px 20px;
+}
+
+
+button{
+margin-left: 105Px;
+    margin-top: 20px;
+    height: 30px;
+    width: 60px
+}
+
+
+
+

@@ -1,4 +1,3 @@
-//////////////////Beg First part//////////////
 
 /* var phoneNumbers = 'necessary';
 

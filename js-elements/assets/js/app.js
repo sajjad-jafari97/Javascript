@@ -4,3 +4,4 @@ function calcul(){
     var z = document.getElementById('total').value= x * y;
 }
 calcul();
+ 

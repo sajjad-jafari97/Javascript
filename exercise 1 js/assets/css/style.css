@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    width: 50%;
+    height: auto;
+    background-color: bisque;
+    margin: auto
+}
+
+#war{
+    width: 90%;
+    height: 90px;
+    margin: auto;
+    padding-top: 20px
+}
+#war p{
+    cursor: pointer
+}
+#war2{
+     width: 90%;
+    height: 90px;
+    margin: auto;
+    
+}
+#war2 p{
+    padding-top: 10px
+}
+#war3{
+    width: 90%;
+    height: 400px;
+    margin: 50px auto;
+    
+
+}
+#war4{
+    width: 90%;
+    height: 200px;
+    margin: 50px auto;  
+}
+#form{
+    margin-left: 60px
+}
+
+#war5{
+     width: 90%;
+    height: 250px;
+    margin: 50px auto;  
+}
+.mycolour{
+    color: green;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+    margin-left: 55px;
+    margin-top: 0px
+}
+
+#compteur{
+    margin-left: 70px
+}
+
+#message{
+    margin-left: 65px
+        
+}

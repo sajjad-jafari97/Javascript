@@ -14,9 +14,17 @@ section{
 
 .war2{
     background-color:#cddbf2;
-    height: 300px;
+    height: auto;
     margin-top:40px 
 }
 label{
     margin-top: 20Px
+}
+
+#delete{
+    cursor: pointer
+}
+
+#modif{
+    cursor: pointer
 }
